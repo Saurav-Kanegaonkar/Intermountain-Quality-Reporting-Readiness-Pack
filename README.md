@@ -1,72 +1,66 @@
-# Quality Reporting Readiness Pack
+# Intermountain Quality Reporting Readiness Pack
 
 ## Motivation
 
-Healthcare quality dashboards are useful only when their inputs, denominators, and refresh status are understood. A facility leader should not have to guess whether a reported readmission or safety signal is supported by complete records and a current reporting run.
+Clinical and operational leaders can only act quickly when recurring reporting is both understandable and trustworthy. This pack demonstrates a practical workflow for surfacing encounter-data quality, report-refresh reliability, utilization signals, and leadership self-service adoption in one auditable reporting routine.
 
 ## What this project is
 
-This reproducible analytics pack checks readiness of recurring healthcare-quality reporting. It combines five source-style synthetic tables with SQL controls, a facility-level readout, and evidence images for an operational review conversation.
+A reproducible, synthetic healthcare analytics pack for a regional reporting team. It pairs SQL validation checks with a site-level readiness queue and rendered evidence designed to support a weekly quality-and-operations review.
 
 ## Why this problem matters
 
-Large integrated delivery systems need a shared language for operational signals across hospitals, clinics, and health-plan-adjacent reporting. Trustworthy visibility requires documented definitions, complete records, known denominators, and a clear refresh exception path.
+An attractive dashboard is not enough when a late feed, missing discharge record, or failed validation can change an apparent utilization trend. Analysts need to partner with data architects on source integrity, explain signals in plain language, and demonstrate how leaders can consume a governed report independently.
 
 ## Data or evidence used
 
-`scripts/build_pack.py` deterministically generates 6,744 synthetic, de-identified encounter records across six fictional facilities and twelve monthly periods, plus discharge follow-up, safety-event, experience-survey, and dashboard-refresh tables. See [data_dictionary.md](data_dictionary.md). This is illustrative data, not Intermountain Health data.
+Four source-style CSV tables model 100k+ de-identified synthetic encounters, 1,200 quality events, 540 report refresh runs, and 18 report-adoption observations. Field definitions and limitations are in [data_dictionary.md](data_dictionary.md). The data is intentionally synthetic: it contains no patient information and makes no claim about Intermountain Health performance.
 
 ## How the project works
 
-1. The builder creates source-style CSV extracts.
-2. [SQL checks](analysis/sql_checks.sql) document controls for completeness, readmission denominators, and refresh exceptions.
-3. The analysis summarizes facility variation and outputs a concise decision readout.
-4. Leaders decide where a data steward should investigate before an operational metric is acted on.
-
-![Quality reporting workflow](docs/images/reporting_workflow.svg)
+`scripts/build_artifact.py` deterministically creates source-style tables, SQLite analysis output, a site readiness queue, and two rendered charts. [analysis/sql_checks.sql](analysis/sql_checks.sql) contains the portable checks a reporting analyst could run before releasing a leadership view.
 
 ## Outputs and views
 
-### Completeness should travel with any comparative metric
+### Data-quality priority queue
 
-![Record completeness by facility](docs/images/completeness_by_facility.svg)
+The ranked view identifies sites where completeness or validity exceptions deserve a remediation huddle before results are treated as reporting-ready. The dashed line is the example 2.5% escalation threshold.
 
-This supports an initial data-steward review: lower-completeness sources should be checked before comparative facility reporting is circulated.
+![Quality exception rate by site](docs/images/quality-exceptions-by-site.png)
 
-### Outcome signals require a documented denominator
+### Leadership self-service adoption
 
-![30-day readmission signal by facility](docs/images/readmission_by_facility.svg)
+This trend turns demonstrations and hands-on training into a measurable outcome: the share of eligible leaders who actively use recurring reporting.
 
-This is a synthetic signal, not a risk-adjusted performance measure. It demonstrates why each dashboard should expose discharge denominator logic and interpretation caveats.
+![Self-service adoption trend](docs/images/self-service-adoption-trend.png)
 
 ## What the analysis says
 
-The generated data shows ordinary facility-level variation in documentation completeness and the 30-day follow-up signal, plus dashboard-refresh exceptions. The reporting sequence should treat completeness and freshness as prerequisites, then route notable variation to a facility owner for review. Full interpretation is in [executive findings](analysis/executive_findings.md).
+The evidence supports a simple operating sequence: validate source fields, disclose refresh health, prioritize affected sites, then review quality/utilization context with leaders. The scorecard is deliberately a readiness instrument, not a clinical-performance benchmark.
 
 ## Recommendations
 
-1. Add completeness, denominator status, and refresh freshness to every recurring quality dashboard.
-2. Create a weekly exception queue for facility data stewards, beginning with incomplete encounter records and unresolved discharge links.
-3. Pair each released dashboard with a one-page readout: signal, confidence status, owner, action, and next monitoring date.
-4. Track data-quality pass rate, reporting-cycle time, refresh exceptions, and dashboard use alongside outcome metrics.
+1. Gate scheduled report distribution on completeness, validity, and duplicate-key checks; route sites above the example threshold to accountable data owners.
+2. Make refresh status and validation-exception counts visible in the recurring leadership review.
+3. Follow demonstrations with active-user and self-service-session monitoring to improve independent report consumption.
 
 ## Repository structure
 
-- `data/` — source-style synthetic CSV tables
-- `analysis/` — SQL checks, plan, findings, and generated outputs
-- `scripts/` — deterministic build script
-- `docs/images/` — workflow and analytical evidence
+```
+data/                 synthetic source-style tables
+analysis/             plan, SQL checks, findings, generated scorecards
+scripts/              reproducible data and evidence generator
+docs/images/          rendered evidence embedded above
+```
 
 ## How to run or inspect
 
-No third-party packages are needed.
-
 ```bash
-python3 scripts/build_pack.py
+python3 -m pip install -r requirements.txt
+python3 scripts/build_artifact.py
+sqlite3 analysis/outputs/readiness_analysis.sqlite < analysis/sql_checks.sql
 ```
-
-Then inspect the generated CSV files in `data/`, SQL validation logic in `analysis/sql_checks.sql`, and findings in `analysis/`.
 
 ## Caveats and limitations
 
-The data is synthetic and de-identified. The pack does not represent actual Intermountain Health facilities, patients, quality ratings, clinical outcomes, financial outcomes, or a production reporting system. It demonstrates analyst workflow—data validation, dashboard-ready definitions, and stakeholder communication—not clinical inference.
+This is a portfolio demonstration built from synthetic, de-identified records. It does not model risk adjustment, clinical definitions, patient safety measures, HIPAA controls, or live health-system workflows. A production implementation would require governance approval, authoritative definitions, privacy review, and clinician/data-owner validation.

@@ -1,0 +1,5 @@
+metric,value,decision_use
+Synthetic encounters analyzed,104344,Denominator for quality and utilization monitoring
+Reporting refresh runs,540,Monitor refresh reliability and exceptions
+Data-quality events,1200,Route remediation queue to data owners
+Priority sites,10,Start validation huddles with highest exception rates

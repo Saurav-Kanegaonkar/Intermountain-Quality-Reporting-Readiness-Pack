@@ -1,0 +1,541 @@
+run_id,run_date,report_name,source_system,run_status,duration_minutes,validation_exception_count
+R000Qu,2025-01-01,Quality & Safety,ADT,failed,20.5,4
+R000Ca,2025-01-01,Care Utilization,ADT,success,13.3,0
+R000Op,2025-01-01,Operations Flow,Finance mart,success,24.1,5
+R001Qu,2025-01-02,Quality & Safety,Finance mart,success,15.8,1
+R001Ca,2025-01-02,Care Utilization,Finance mart,success,32.1,6
+R001Op,2025-01-02,Operations Flow,Finance mart,success,8.6,4
+R002Qu,2025-01-03,Quality & Safety,Finance mart,success,18.0,6
+R002Ca,2025-01-03,Care Utilization,ADT,success,16.0,3
+R002Op,2025-01-03,Operations Flow,ADT,success,24.4,1
+R003Qu,2025-01-04,Quality & Safety,ADT,success,19.5,3
+R003Ca,2025-01-04,Care Utilization,EHR,success,31.0,2
+R003Op,2025-01-04,Operations Flow,ADT,success,36.6,0
+R004Qu,2025-01-05,Quality & Safety,Finance mart,success,6.5,0
+R004Ca,2025-01-05,Care Utilization,Finance mart,success,9.9,7
+R004Op,2025-01-05,Operations Flow,ADT,success,7.8,2
+R005Qu,2025-01-06,Quality & Safety,Finance mart,success,16.1,6
+R005Ca,2025-01-06,Care Utilization,Finance mart,success,26.9,4
+R005Op,2025-01-06,Operations Flow,Finance mart,success,37.3,3
+R006Qu,2025-01-07,Quality & Safety,Finance mart,success,25.5,2
+R006Ca,2025-01-07,Care Utilization,Finance mart,success,13.3,0
+R006Op,2025-01-07,Operations Flow,ADT,success,8.1,2
+R007Qu,2025-01-08,Quality & Safety,Finance mart,success,8.0,0
+R007Ca,2025-01-08,Care Utilization,EHR,success,7.3,1
+R007Op,2025-01-08,Operations Flow,EHR,success,32.2,0
+R008Qu,2025-01-09,Quality & Safety,EHR,success,24.2,5
+R008Ca,2025-01-09,Care Utilization,Finance mart,success,21.2,2
+R008Op,2025-01-09,Operations Flow,ADT,success,10.3,3
+R009Qu,2025-01-10,Quality & Safety,EHR,success,19.5,3
+R009Ca,2025-01-10,Care Utilization,Finance mart,success,8.2,5
+R009Op,2025-01-10,Operations Flow,EHR,failed,24.1,0
+R010Qu,2025-01-11,Quality & Safety,EHR,success,29.0,4
+R010Ca,2025-01-11,Care Utilization,EHR,success,23.5,1
+R010Op,2025-01-11,Operations Flow,EHR,success,34.7,1
+R011Qu,2025-01-12,Quality & Safety,Finance mart,success,28.7,1
+R011Ca,2025-01-12,Care Utilization,Finance mart,success,6.4,1
+R011Op,2025-01-12,Operations Flow,ADT,success,9.4,2
+R012Qu,2025-01-13,Quality & Safety,ADT,success,29.2,1
+R012Ca,2025-01-13,Care Utilization,ADT,success,28.6,1
+R012Op,2025-01-13,Operations Flow,Finance mart,success,28.6,2
+R013Qu,2025-01-14,Quality & Safety,EHR,success,19.6,4
+R013Ca,2025-01-14,Care Utilization,EHR,success,32.8,3
+R013Op,2025-01-14,Operations Flow,Finance mart,success,25.0,0
+R014Qu,2025-01-15,Quality & Safety,Finance mart,success,34.1,7
+R014Ca,2025-01-15,Care Utilization,EHR,success,18.2,1
+R014Op,2025-01-15,Operations Flow,ADT,success,36.2,2
+R015Qu,2025-01-16,Quality & Safety,ADT,success,6.7,5
+R015Ca,2025-01-16,Care Utilization,ADT,success,36.4,3
+R015Op,2025-01-16,Operations Flow,Finance mart,success,37.3,5
+R016Qu,2025-01-17,Quality & Safety,EHR,success,18.7,5
+R016Ca,2025-01-17,Care Utilization,Finance mart,success,21.7,2
+R016Op,2025-01-17,Operations Flow,ADT,success,33.9,4
+R017Qu,2025-01-18,Quality & Safety,EHR,success,31.6,7
+R017Ca,2025-01-18,Care Utilization,Finance mart,success,15.7,7
+R017Op,2025-01-18,Operations Flow,Finance mart,success,34.3,6
+R018Qu,2025-01-19,Quality & Safety,EHR,success,22.0,4
+R018Ca,2025-01-19,Care Utilization,ADT,success,19.2,3
+R018Op,2025-01-19,Operations Flow,Finance mart,success,33.3,6
+R019Qu,2025-01-20,Quality & Safety,ADT,success,27.0,2
+R019Ca,2025-01-20,Care Utilization,Finance mart,success,14.2,3
+R019Op,2025-01-20,Operations Flow,EHR,success,17.7,4
+R020Qu,2025-01-21,Quality & Safety,ADT,success,15.8,4
+R020Ca,2025-01-21,Care Utilization,Finance mart,success,35.3,2
+R020Op,2025-01-21,Operations Flow,EHR,success,8.2,1
+R021Qu,2025-01-22,Quality & Safety,ADT,success,34.3,6
+R021Ca,2025-01-22,Care Utilization,Finance mart,failed,16.8,0
+R021Op,2025-01-22,Operations Flow,ADT,success,22.2,3
+R022Qu,2025-01-23,Quality & Safety,ADT,success,6.7,2
+R022Ca,2025-01-23,Care Utilization,Finance mart,success,22.5,1
+R022Op,2025-01-23,Operations Flow,Finance mart,success,11.7,3
+R023Qu,2025-01-24,Quality & Safety,EHR,success,18.1,5
+R023Ca,2025-01-24,Care Utilization,EHR,success,14.3,7
+R023Op,2025-01-24,Operations Flow,EHR,failed,26.8,4
+R024Qu,2025-01-25,Quality & Safety,EHR,success,35.7,6
+R024Ca,2025-01-25,Care Utilization,EHR,success,9.0,4
+R024Op,2025-01-25,Operations Flow,ADT,failed,22.9,0
+R025Qu,2025-01-26,Quality & Safety,EHR,success,15.4,3
+R025Ca,2025-01-26,Care Utilization,Finance mart,failed,22.1,7
+R025Op,2025-01-26,Operations Flow,Finance mart,success,33.0,5
+R026Qu,2025-01-27,Quality & Safety,EHR,success,27.5,1
+R026Ca,2025-01-27,Care Utilization,ADT,success,9.8,1
+R026Op,2025-01-27,Operations Flow,Finance mart,success,10.7,4
+R027Qu,2025-01-28,Quality & Safety,Finance mart,success,7.3,1
+R027Ca,2025-01-28,Care Utilization,Finance mart,success,17.0,6
+R027Op,2025-01-28,Operations Flow,ADT,success,29.9,1
+R028Qu,2025-01-29,Quality & Safety,EHR,success,24.7,0
+R028Ca,2025-01-29,Care Utilization,EHR,success,9.3,0
+R028Op,2025-01-29,Operations Flow,ADT,success,20.6,3
+R029Qu,2025-01-30,Quality & Safety,EHR,success,8.5,1
+R029Ca,2025-01-30,Care Utilization,Finance mart,success,14.9,7
+R029Op,2025-01-30,Operations Flow,ADT,failed,7.8,0
+R030Qu,2025-01-31,Quality & Safety,EHR,success,31.2,6
+R030Ca,2025-01-31,Care Utilization,Finance mart,success,26.9,7
+R030Op,2025-01-31,Operations Flow,Finance mart,success,9.3,3
+R031Qu,2025-02-01,Quality & Safety,EHR,success,19.5,5
+R031Ca,2025-02-01,Care Utilization,EHR,success,31.7,4
+R031Op,2025-02-01,Operations Flow,Finance mart,success,11.9,7
+R032Qu,2025-02-02,Quality & Safety,ADT,success,12.9,6
+R032Ca,2025-02-02,Care Utilization,ADT,success,16.3,5
+R032Op,2025-02-02,Operations Flow,EHR,success,15.9,1
+R033Qu,2025-02-03,Quality & Safety,Finance mart,success,11.0,4
+R033Ca,2025-02-03,Care Utilization,EHR,success,30.0,0
+R033Op,2025-02-03,Operations Flow,EHR,success,19.7,5
+R034Qu,2025-02-04,Quality & Safety,Finance mart,success,20.7,5
+R034Ca,2025-02-04,Care Utilization,Finance mart,success,37.6,4
+R034Op,2025-02-04,Operations Flow,EHR,success,16.8,6
+R035Qu,2025-02-05,Quality & Safety,Finance mart,success,11.3,1
+R035Ca,2025-02-05,Care Utilization,Finance mart,success,11.3,5
+R035Op,2025-02-05,Operations Flow,EHR,success,11.1,7
+R036Qu,2025-02-06,Quality & Safety,Finance mart,success,17.5,4
+R036Ca,2025-02-06,Care Utilization,ADT,success,25.3,2
+R036Op,2025-02-06,Operations Flow,ADT,success,15.2,5
+R037Qu,2025-02-07,Quality & Safety,EHR,success,37.4,7
+R037Ca,2025-02-07,Care Utilization,EHR,success,7.8,2
+R037Op,2025-02-07,Operations Flow,ADT,success,36.3,6
+R038Qu,2025-02-08,Quality & Safety,EHR,success,17.0,4
+R038Ca,2025-02-08,Care Utilization,EHR,success,7.5,3
+R038Op,2025-02-08,Operations Flow,ADT,success,33.6,7
+R039Qu,2025-02-09,Quality & Safety,ADT,success,37.4,6
+R039Ca,2025-02-09,Care Utilization,Finance mart,success,16.2,7
+R039Op,2025-02-09,Operations Flow,Finance mart,success,19.8,4
+R040Qu,2025-02-10,Quality & Safety,EHR,success,10.2,0
+R040Ca,2025-02-10,Care Utilization,ADT,success,36.6,6
+R040Op,2025-02-10,Operations Flow,Finance mart,success,25.7,6
+R041Qu,2025-02-11,Quality & Safety,ADT,success,30.0,4
+R041Ca,2025-02-11,Care Utilization,ADT,success,26.7,0
+R041Op,2025-02-11,Operations Flow,Finance mart,success,24.2,5
+R042Qu,2025-02-12,Quality & Safety,ADT,success,27.4,7
+R042Ca,2025-02-12,Care Utilization,Finance mart,success,7.7,3
+R042Op,2025-02-12,Operations Flow,ADT,success,15.3,5
+R043Qu,2025-02-13,Quality & Safety,Finance mart,success,7.4,7
+R043Ca,2025-02-13,Care Utilization,EHR,success,29.7,1
+R043Op,2025-02-13,Operations Flow,EHR,success,36.8,2
+R044Qu,2025-02-14,Quality & Safety,Finance mart,success,36.7,7
+R044Ca,2025-02-14,Care Utilization,Finance mart,success,29.4,0
+R044Op,2025-02-14,Operations Flow,ADT,success,36.7,3
+R045Qu,2025-02-15,Quality & Safety,Finance mart,success,31.5,6
+R045Ca,2025-02-15,Care Utilization,Finance mart,success,20.9,7
+R045Op,2025-02-15,Operations Flow,EHR,success,10.0,4
+R046Qu,2025-02-16,Quality & Safety,Finance mart,success,30.1,6
+R046Ca,2025-02-16,Care Utilization,ADT,success,34.9,6
+R046Op,2025-02-16,Operations Flow,Finance mart,success,21.6,2
+R047Qu,2025-02-17,Quality & Safety,EHR,failed,9.5,5
+R047Ca,2025-02-17,Care Utilization,EHR,success,8.9,0
+R047Op,2025-02-17,Operations Flow,EHR,failed,31.5,3
+R048Qu,2025-02-18,Quality & Safety,ADT,success,23.2,2
+R048Ca,2025-02-18,Care Utilization,EHR,success,36.5,3
+R048Op,2025-02-18,Operations Flow,Finance mart,success,26.1,1
+R049Qu,2025-02-19,Quality & Safety,ADT,success,24.6,3
+R049Ca,2025-02-19,Care Utilization,ADT,success,33.2,4
+R049Op,2025-02-19,Operations Flow,Finance mart,success,16.0,0
+R050Qu,2025-02-20,Quality & Safety,ADT,success,22.8,7
+R050Ca,2025-02-20,Care Utilization,Finance mart,success,23.9,6
+R050Op,2025-02-20,Operations Flow,EHR,success,24.0,3
+R051Qu,2025-02-21,Quality & Safety,ADT,success,28.0,3
+R051Ca,2025-02-21,Care Utilization,Finance mart,success,31.7,0
+R051Op,2025-02-21,Operations Flow,EHR,success,28.7,3
+R052Qu,2025-02-22,Quality & Safety,Finance mart,success,32.7,7
+R052Ca,2025-02-22,Care Utilization,ADT,success,34.4,7
+R052Op,2025-02-22,Operations Flow,Finance mart,success,30.6,6
+R053Qu,2025-02-23,Quality & Safety,EHR,success,20.2,1
+R053Ca,2025-02-23,Care Utilization,ADT,success,13.2,1
+R053Op,2025-02-23,Operations Flow,ADT,success,31.0,7
+R054Qu,2025-02-24,Quality & Safety,ADT,success,25.7,6
+R054Ca,2025-02-24,Care Utilization,EHR,success,18.3,0
+R054Op,2025-02-24,Operations Flow,EHR,failed,13.5,2
+R055Qu,2025-02-25,Quality & Safety,EHR,success,7.3,3
+R055Ca,2025-02-25,Care Utilization,ADT,success,27.9,2
+R055Op,2025-02-25,Operations Flow,EHR,success,6.7,1
+R056Qu,2025-02-26,Quality & Safety,EHR,success,8.4,3
+R056Ca,2025-02-26,Care Utilization,ADT,success,7.3,4
+R056Op,2025-02-26,Operations Flow,Finance mart,success,29.8,3
+R057Qu,2025-02-27,Quality & Safety,ADT,success,14.1,3
+R057Ca,2025-02-27,Care Utilization,EHR,success,12.1,7
+R057Op,2025-02-27,Operations Flow,EHR,success,33.3,6
+R058Qu,2025-02-28,Quality & Safety,ADT,success,26.0,7
+R058Ca,2025-02-28,Care Utilization,EHR,success,10.6,2
+R058Op,2025-02-28,Operations Flow,Finance mart,success,37.4,3
+R059Qu,2025-03-01,Quality & Safety,EHR,success,33.6,3
+R059Ca,2025-03-01,Care Utilization,ADT,success,34.2,6
+R059Op,2025-03-01,Operations Flow,ADT,failed,31.5,4
+R060Qu,2025-03-02,Quality & Safety,EHR,success,30.5,3
+R060Ca,2025-03-02,Care Utilization,Finance mart,success,20.4,5
+R060Op,2025-03-02,Operations Flow,EHR,success,11.1,0
+R061Qu,2025-03-03,Quality & Safety,EHR,success,11.0,4
+R061Ca,2025-03-03,Care Utilization,EHR,success,10.7,3
+R061Op,2025-03-03,Operations Flow,ADT,success,22.6,3
+R062Qu,2025-03-04,Quality & Safety,ADT,success,6.3,6
+R062Ca,2025-03-04,Care Utilization,EHR,success,33.2,0
+R062Op,2025-03-04,Operations Flow,EHR,success,32.9,3
+R063Qu,2025-03-05,Quality & Safety,Finance mart,success,8.1,3
+R063Ca,2025-03-05,Care Utilization,Finance mart,failed,11.6,7
+R063Op,2025-03-05,Operations Flow,EHR,success,15.1,1
+R064Qu,2025-03-06,Quality & Safety,Finance mart,success,11.2,3
+R064Ca,2025-03-06,Care Utilization,EHR,success,9.2,7
+R064Op,2025-03-06,Operations Flow,EHR,success,10.5,4
+R065Qu,2025-03-07,Quality & Safety,EHR,success,12.6,4
+R065Ca,2025-03-07,Care Utilization,ADT,success,30.4,4
+R065Op,2025-03-07,Operations Flow,EHR,success,19.8,3
+R066Qu,2025-03-08,Quality & Safety,EHR,success,33.2,7
+R066Ca,2025-03-08,Care Utilization,Finance mart,success,18.1,5
+R066Op,2025-03-08,Operations Flow,EHR,success,24.1,6
+R067Qu,2025-03-09,Quality & Safety,Finance mart,success,24.7,7
+R067Ca,2025-03-09,Care Utilization,EHR,success,11.1,1
+R067Op,2025-03-09,Operations Flow,ADT,success,32.2,2
+R068Qu,2025-03-10,Quality & Safety,Finance mart,success,36.0,5
+R068Ca,2025-03-10,Care Utilization,ADT,success,12.5,4
+R068Op,2025-03-10,Operations Flow,EHR,success,14.7,1
+R069Qu,2025-03-11,Quality & Safety,EHR,success,33.2,3
+R069Ca,2025-03-11,Care Utilization,EHR,success,16.1,0
+R069Op,2025-03-11,Operations Flow,ADT,success,36.4,3
+R070Qu,2025-03-12,Quality & Safety,ADT,failed,28.0,5
+R070Ca,2025-03-12,Care Utilization,EHR,success,21.2,3
+R070Op,2025-03-12,Operations Flow,EHR,success,15.3,3
+R071Qu,2025-03-13,Quality & Safety,Finance mart,success,14.0,3
+R071Ca,2025-03-13,Care Utilization,Finance mart,success,32.1,0
+R071Op,2025-03-13,Operations Flow,EHR,success,8.6,6
+R072Qu,2025-03-14,Quality & Safety,ADT,success,29.1,6
+R072Ca,2025-03-14,Care Utilization,Finance mart,success,35.4,0
+R072Op,2025-03-14,Operations Flow,EHR,success,21.0,5
+R073Qu,2025-03-15,Quality & Safety,EHR,success,32.2,7
+R073Ca,2025-03-15,Care Utilization,EHR,failed,25.0,1
+R073Op,2025-03-15,Operations Flow,Finance mart,success,24.4,7
+R074Qu,2025-03-16,Quality & Safety,EHR,success,10.6,2
+R074Ca,2025-03-16,Care Utilization,EHR,success,17.9,1
+R074Op,2025-03-16,Operations Flow,EHR,success,32.7,7
+R075Qu,2025-03-17,Quality & Safety,ADT,success,36.9,0
+R075Ca,2025-03-17,Care Utilization,EHR,success,30.8,4
+R075Op,2025-03-17,Operations Flow,EHR,success,35.0,1
+R076Qu,2025-03-18,Quality & Safety,Finance mart,success,15.5,7
+R076Ca,2025-03-18,Care Utilization,EHR,success,28.4,5
+R076Op,2025-03-18,Operations Flow,Finance mart,success,37.5,4
+R077Qu,2025-03-19,Quality & Safety,ADT,success,36.4,0
+R077Ca,2025-03-19,Care Utilization,ADT,success,21.5,3
+R077Op,2025-03-19,Operations Flow,ADT,success,25.9,1
+R078Qu,2025-03-20,Quality & Safety,ADT,success,6.4,5
+R078Ca,2025-03-20,Care Utilization,Finance mart,success,21.6,2
+R078Op,2025-03-20,Operations Flow,EHR,failed,18.9,7
+R079Qu,2025-03-21,Quality & Safety,Finance mart,success,33.3,5
+R079Ca,2025-03-21,Care Utilization,Finance mart,success,21.6,0
+R079Op,2025-03-21,Operations Flow,Finance mart,success,33.7,4
+R080Qu,2025-03-22,Quality & Safety,ADT,success,10.5,3
+R080Ca,2025-03-22,Care Utilization,ADT,success,10.6,5
+R080Op,2025-03-22,Operations Flow,EHR,success,26.6,4
+R081Qu,2025-03-23,Quality & Safety,EHR,success,16.9,7
+R081Ca,2025-03-23,Care Utilization,ADT,success,30.7,0
+R081Op,2025-03-23,Operations Flow,Finance mart,success,15.0,4
+R082Qu,2025-03-24,Quality & Safety,Finance mart,success,20.2,4
+R082Ca,2025-03-24,Care Utilization,ADT,success,14.2,4
+R082Op,2025-03-24,Operations Flow,ADT,success,36.6,6
+R083Qu,2025-03-25,Quality & Safety,EHR,success,31.0,0
+R083Ca,2025-03-25,Care Utilization,ADT,success,29.1,3
+R083Op,2025-03-25,Operations Flow,EHR,success,7.1,0
+R084Qu,2025-03-26,Quality & Safety,EHR,success,33.4,7
+R084Ca,2025-03-26,Care Utilization,Finance mart,failed,18.4,3
+R084Op,2025-03-26,Operations Flow,ADT,success,25.3,7
+R085Qu,2025-03-27,Quality & Safety,EHR,success,34.7,0
+R085Ca,2025-03-27,Care Utilization,EHR,success,22.1,2
+R085Op,2025-03-27,Operations Flow,ADT,success,19.1,6
+R086Qu,2025-03-28,Quality & Safety,Finance mart,success,14.7,2
+R086Ca,2025-03-28,Care Utilization,EHR,success,25.5,5
+R086Op,2025-03-28,Operations Flow,Finance mart,success,29.4,0
+R087Qu,2025-03-29,Quality & Safety,Finance mart,success,34.5,0
+R087Ca,2025-03-29,Care Utilization,ADT,success,24.0,3
+R087Op,2025-03-29,Operations Flow,Finance mart,success,20.5,3
+R088Qu,2025-03-30,Quality & Safety,EHR,success,7.1,2
+R088Ca,2025-03-30,Care Utilization,ADT,success,32.9,0
+R088Op,2025-03-30,Operations Flow,EHR,success,14.8,1
+R089Qu,2025-03-31,Quality & Safety,Finance mart,success,18.5,7
+R089Ca,2025-03-31,Care Utilization,ADT,success,25.3,5
+R089Op,2025-03-31,Operations Flow,Finance mart,success,29.6,2
+R090Qu,2025-04-01,Quality & Safety,Finance mart,success,11.4,4
+R090Ca,2025-04-01,Care Utilization,ADT,success,16.7,4
+R090Op,2025-04-01,Operations Flow,ADT,success,35.0,1
+R091Qu,2025-04-02,Quality & Safety,Finance mart,success,30.4,0
+R091Ca,2025-04-02,Care Utilization,EHR,success,22.8,6
+R091Op,2025-04-02,Operations Flow,Finance mart,success,18.7,6
+R092Qu,2025-04-03,Quality & Safety,ADT,success,28.6,7
+R092Ca,2025-04-03,Care Utilization,EHR,success,17.1,0
+R092Op,2025-04-03,Operations Flow,Finance mart,success,12.3,3
+R093Qu,2025-04-04,Quality & Safety,Finance mart,success,16.3,1
+R093Ca,2025-04-04,Care Utilization,EHR,success,17.9,4
+R093Op,2025-04-04,Operations Flow,Finance mart,success,31.4,0
+R094Qu,2025-04-05,Quality & Safety,ADT,success,32.4,0
+R094Ca,2025-04-05,Care Utilization,ADT,success,26.6,3
+R094Op,2025-04-05,Operations Flow,Finance mart,success,23.3,5
+R095Qu,2025-04-06,Quality & Safety,Finance mart,success,14.9,1
+R095Ca,2025-04-06,Care Utilization,ADT,success,16.9,7
+R095Op,2025-04-06,Operations Flow,ADT,success,34.6,5
+R096Qu,2025-04-07,Quality & Safety,EHR,success,20.1,4
+R096Ca,2025-04-07,Care Utilization,ADT,success,8.1,5
+R096Op,2025-04-07,Operations Flow,ADT,success,23.2,3
+R097Qu,2025-04-08,Quality & Safety,EHR,success,35.7,0
+R097Ca,2025-04-08,Care Utilization,EHR,success,10.6,2
+R097Op,2025-04-08,Operations Flow,EHR,success,37.3,1
+R098Qu,2025-04-09,Quality & Safety,ADT,success,14.2,7
+R098Ca,2025-04-09,Care Utilization,EHR,success,30.3,0
+R098Op,2025-04-09,Operations Flow,EHR,success,36.1,7
+R099Qu,2025-04-10,Quality & Safety,Finance mart,success,8.4,1
+R099Ca,2025-04-10,Care Utilization,EHR,success,22.4,4
+R099Op,2025-04-10,Operations Flow,ADT,success,23.8,5
+R100Qu,2025-04-11,Quality & Safety,Finance mart,success,36.5,0
+R100Ca,2025-04-11,Care Utilization,ADT,success,25.8,4
+R100Op,2025-04-11,Operations Flow,Finance mart,success,35.5,4
+R101Qu,2025-04-12,Quality & Safety,ADT,success,10.0,5
+R101Ca,2025-04-12,Care Utilization,EHR,success,19.7,3
+R101Op,2025-04-12,Operations Flow,EHR,failed,6.1,4
+R102Qu,2025-04-13,Quality & Safety,Finance mart,success,26.5,5
+R102Ca,2025-04-13,Care Utilization,Finance mart,success,27.7,7
+R102Op,2025-04-13,Operations Flow,ADT,success,8.0,7
+R103Qu,2025-04-14,Quality & Safety,ADT,success,24.9,4
+R103Ca,2025-04-14,Care Utilization,Finance mart,success,7.6,7
+R103Op,2025-04-14,Operations Flow,EHR,success,6.1,4
+R104Qu,2025-04-15,Quality & Safety,ADT,success,22.6,3
+R104Ca,2025-04-15,Care Utilization,EHR,success,23.4,4
+R104Op,2025-04-15,Operations Flow,ADT,success,19.0,5
+R105Qu,2025-04-16,Quality & Safety,EHR,success,15.7,1
+R105Ca,2025-04-16,Care Utilization,ADT,success,10.0,0
+R105Op,2025-04-16,Operations Flow,Finance mart,success,22.2,0
+R106Qu,2025-04-17,Quality & Safety,Finance mart,success,25.0,7
+R106Ca,2025-04-17,Care Utilization,EHR,success,27.2,7
+R106Op,2025-04-17,Operations Flow,EHR,success,15.5,0
+R107Qu,2025-04-18,Quality & Safety,EHR,success,7.8,2
+R107Ca,2025-04-18,Care Utilization,EHR,failed,21.6,4
+R107Op,2025-04-18,Operations Flow,ADT,success,17.7,1
+R108Qu,2025-04-19,Quality & Safety,Finance mart,success,35.4,6
+R108Ca,2025-04-19,Care Utilization,EHR,success,22.0,1
+R108Op,2025-04-19,Operations Flow,Finance mart,success,31.2,6
+R109Qu,2025-04-20,Quality & Safety,EHR,success,10.9,5
+R109Ca,2025-04-20,Care Utilization,ADT,success,31.7,5
+R109Op,2025-04-20,Operations Flow,Finance mart,success,16.8,6
+R110Qu,2025-04-21,Quality & Safety,Finance mart,success,17.9,5
+R110Ca,2025-04-21,Care Utilization,ADT,success,24.4,0
+R110Op,2025-04-21,Operations Flow,ADT,success,13.3,0
+R111Qu,2025-04-22,Quality & Safety,Finance mart,success,8.1,7
+R111Ca,2025-04-22,Care Utilization,ADT,success,37.7,2
+R111Op,2025-04-22,Operations Flow,ADT,success,25.5,2
+R112Qu,2025-04-23,Quality & Safety,EHR,success,32.0,6
+R112Ca,2025-04-23,Care Utilization,ADT,success,19.5,0
+R112Op,2025-04-23,Operations Flow,Finance mart,success,6.5,2
+R113Qu,2025-04-24,Quality & Safety,EHR,success,20.6,2
+R113Ca,2025-04-24,Care Utilization,Finance mart,success,33.1,3
+R113Op,2025-04-24,Operations Flow,Finance mart,success,21.1,2
+R114Qu,2025-04-25,Quality & Safety,ADT,success,12.6,7
+R114Ca,2025-04-25,Care Utilization,EHR,success,20.7,7
+R114Op,2025-04-25,Operations Flow,ADT,failed,13.2,7
+R115Qu,2025-04-26,Quality & Safety,ADT,success,10.2,7
+R115Ca,2025-04-26,Care Utilization,Finance mart,success,19.6,4
+R115Op,2025-04-26,Operations Flow,ADT,success,25.3,3
+R116Qu,2025-04-27,Quality & Safety,EHR,success,35.4,6
+R116Ca,2025-04-27,Care Utilization,EHR,success,37.6,3
+R116Op,2025-04-27,Operations Flow,EHR,success,30.4,7
+R117Qu,2025-04-28,Quality & Safety,EHR,success,35.2,3
+R117Ca,2025-04-28,Care Utilization,EHR,success,28.6,3
+R117Op,2025-04-28,Operations Flow,Finance mart,success,11.4,4
+R118Qu,2025-04-29,Quality & Safety,EHR,success,32.2,4
+R118Ca,2025-04-29,Care Utilization,ADT,success,6.1,5
+R118Op,2025-04-29,Operations Flow,EHR,success,11.8,2
+R119Qu,2025-04-30,Quality & Safety,Finance mart,success,37.8,5
+R119Ca,2025-04-30,Care Utilization,EHR,failed,32.8,5
+R119Op,2025-04-30,Operations Flow,Finance mart,success,15.2,6
+R120Qu,2025-05-01,Quality & Safety,Finance mart,success,16.7,7
+R120Ca,2025-05-01,Care Utilization,Finance mart,success,14.9,5
+R120Op,2025-05-01,Operations Flow,Finance mart,success,8.2,0
+R121Qu,2025-05-02,Quality & Safety,Finance mart,success,37.4,5
+R121Ca,2025-05-02,Care Utilization,Finance mart,success,25.7,2
+R121Op,2025-05-02,Operations Flow,Finance mart,success,33.7,1
+R122Qu,2025-05-03,Quality & Safety,EHR,success,14.9,1
+R122Ca,2025-05-03,Care Utilization,EHR,success,29.6,2
+R122Op,2025-05-03,Operations Flow,EHR,success,26.9,7
+R123Qu,2025-05-04,Quality & Safety,Finance mart,success,28.5,5
+R123Ca,2025-05-04,Care Utilization,Finance mart,success,10.8,7
+R123Op,2025-05-04,Operations Flow,ADT,success,33.1,7
+R124Qu,2025-05-05,Quality & Safety,EHR,success,6.2,4
+R124Ca,2025-05-05,Care Utilization,Finance mart,success,17.3,2
+R124Op,2025-05-05,Operations Flow,ADT,success,13.7,2
+R125Qu,2025-05-06,Quality & Safety,Finance mart,success,22.2,2
+R125Ca,2025-05-06,Care Utilization,EHR,success,30.9,5
+R125Op,2025-05-06,Operations Flow,ADT,success,37.2,6
+R126Qu,2025-05-07,Quality & Safety,ADT,success,32.5,2
+R126Ca,2025-05-07,Care Utilization,Finance mart,success,22.3,0
+R126Op,2025-05-07,Operations Flow,Finance mart,success,7.9,2
+R127Qu,2025-05-08,Quality & Safety,Finance mart,success,23.6,0
+R127Ca,2025-05-08,Care Utilization,EHR,success,17.8,3
+R127Op,2025-05-08,Operations Flow,EHR,success,7.6,4
+R128Qu,2025-05-09,Quality & Safety,EHR,success,24.7,5
+R128Ca,2025-05-09,Care Utilization,Finance mart,success,19.8,7
+R128Op,2025-05-09,Operations Flow,EHR,success,11.1,6
+R129Qu,2025-05-10,Quality & Safety,ADT,success,29.6,0
+R129Ca,2025-05-10,Care Utilization,EHR,success,32.0,2
+R129Op,2025-05-10,Operations Flow,EHR,success,35.9,6
+R130Qu,2025-05-11,Quality & Safety,ADT,success,35.7,6
+R130Ca,2025-05-11,Care Utilization,ADT,success,16.0,0
+R130Op,2025-05-11,Operations Flow,EHR,success,28.0,7
+R131Qu,2025-05-12,Quality & Safety,EHR,success,11.6,1
+R131Ca,2025-05-12,Care Utilization,EHR,success,23.7,4
+R131Op,2025-05-12,Operations Flow,ADT,success,10.3,4
+R132Qu,2025-05-13,Quality & Safety,ADT,success,36.1,7
+R132Ca,2025-05-13,Care Utilization,ADT,failed,18.6,3
+R132Op,2025-05-13,Operations Flow,EHR,success,36.6,1
+R133Qu,2025-05-14,Quality & Safety,ADT,success,36.1,1
+R133Ca,2025-05-14,Care Utilization,EHR,success,30.8,7
+R133Op,2025-05-14,Operations Flow,Finance mart,success,21.3,0
+R134Qu,2025-05-15,Quality & Safety,EHR,failed,7.4,7
+R134Ca,2025-05-15,Care Utilization,Finance mart,success,13.1,1
+R134Op,2025-05-15,Operations Flow,Finance mart,success,37.8,3
+R135Qu,2025-05-16,Quality & Safety,EHR,success,36.1,4
+R135Ca,2025-05-16,Care Utilization,Finance mart,success,22.4,4
+R135Op,2025-05-16,Operations Flow,ADT,success,17.4,3
+R136Qu,2025-05-17,Quality & Safety,Finance mart,success,35.3,4
+R136Ca,2025-05-17,Care Utilization,ADT,failed,36.8,7
+R136Op,2025-05-17,Operations Flow,ADT,success,8.5,5
+R137Qu,2025-05-18,Quality & Safety,ADT,success,10.4,0
+R137Ca,2025-05-18,Care Utilization,EHR,success,28.3,5
+R137Op,2025-05-18,Operations Flow,ADT,success,16.9,5
+R138Qu,2025-05-19,Quality & Safety,Finance mart,success,20.3,6
+R138Ca,2025-05-19,Care Utilization,Finance mart,success,20.5,5
+R138Op,2025-05-19,Operations Flow,Finance mart,failed,33.8,7
+R139Qu,2025-05-20,Quality & Safety,ADT,success,12.1,4
+R139Ca,2025-05-20,Care Utilization,ADT,success,29.9,7
+R139Op,2025-05-20,Operations Flow,Finance mart,success,13.2,6
+R140Qu,2025-05-21,Quality & Safety,Finance mart,success,35.8,1
+R140Ca,2025-05-21,Care Utilization,ADT,success,19.3,3
+R140Op,2025-05-21,Operations Flow,EHR,success,16.4,5
+R141Qu,2025-05-22,Quality & Safety,EHR,success,30.3,2
+R141Ca,2025-05-22,Care Utilization,EHR,success,28.9,7
+R141Op,2025-05-22,Operations Flow,EHR,success,35.1,2
+R142Qu,2025-05-23,Quality & Safety,ADT,success,12.4,7
+R142Ca,2025-05-23,Care Utilization,EHR,success,26.0,6
+R142Op,2025-05-23,Operations Flow,EHR,success,12.8,2
+R143Qu,2025-05-24,Quality & Safety,Finance mart,success,11.7,2
+R143Ca,2025-05-24,Care Utilization,EHR,success,18.4,1
+R143Op,2025-05-24,Operations Flow,ADT,success,14.9,4
+R144Qu,2025-05-25,Quality & Safety,Finance mart,success,19.2,4
+R144Ca,2025-05-25,Care Utilization,ADT,success,32.8,5
+R144Op,2025-05-25,Operations Flow,EHR,success,14.1,5
+R145Qu,2025-05-26,Quality & Safety,EHR,success,36.1,5
+R145Ca,2025-05-26,Care Utilization,Finance mart,success,7.7,5
+R145Op,2025-05-26,Operations Flow,ADT,failed,25.9,2
+R146Qu,2025-05-27,Quality & Safety,EHR,success,20.6,0
+R146Ca,2025-05-27,Care Utilization,ADT,success,19.3,1
+R146Op,2025-05-27,Operations Flow,EHR,success,22.4,1
+R147Qu,2025-05-28,Quality & Safety,Finance mart,success,25.1,5
+R147Ca,2025-05-28,Care Utilization,ADT,success,9.1,1
+R147Op,2025-05-28,Operations Flow,Finance mart,success,7.6,7
+R148Qu,2025-05-29,Quality & Safety,Finance mart,success,9.0,3
+R148Ca,2025-05-29,Care Utilization,EHR,success,34.9,2
+R148Op,2025-05-29,Operations Flow,Finance mart,success,8.4,0
+R149Qu,2025-05-30,Quality & Safety,ADT,success,21.5,1
+R149Ca,2025-05-30,Care Utilization,EHR,success,34.3,4
+R149Op,2025-05-30,Operations Flow,ADT,success,27.2,0
+R150Qu,2025-05-31,Quality & Safety,ADT,success,33.2,5
+R150Ca,2025-05-31,Care Utilization,ADT,success,13.4,2
+R150Op,2025-05-31,Operations Flow,Finance mart,success,31.3,0
+R151Qu,2025-06-01,Quality & Safety,ADT,success,21.6,6
+R151Ca,2025-06-01,Care Utilization,ADT,success,9.6,6
+R151Op,2025-06-01,Operations Flow,EHR,success,11.4,3
+R152Qu,2025-06-02,Quality & Safety,Finance mart,success,6.7,1
+R152Ca,2025-06-02,Care Utilization,EHR,success,28.6,2
+R152Op,2025-06-02,Operations Flow,EHR,success,12.9,5
+R153Qu,2025-06-03,Quality & Safety,EHR,success,32.1,7
+R153Ca,2025-06-03,Care Utilization,ADT,success,9.8,3
+R153Op,2025-06-03,Operations Flow,Finance mart,success,11.0,2
+R154Qu,2025-06-04,Quality & Safety,EHR,success,26.3,2
+R154Ca,2025-06-04,Care Utilization,ADT,success,27.1,0
+R154Op,2025-06-04,Operations Flow,EHR,success,19.6,0
+R155Qu,2025-06-05,Quality & Safety,Finance mart,failed,36.9,7
+R155Ca,2025-06-05,Care Utilization,Finance mart,success,38.0,2
+R155Op,2025-06-05,Operations Flow,ADT,success,21.5,7
+R156Qu,2025-06-06,Quality & Safety,ADT,success,13.3,6
+R156Ca,2025-06-06,Care Utilization,ADT,success,14.7,7
+R156Op,2025-06-06,Operations Flow,EHR,success,21.5,7
+R157Qu,2025-06-07,Quality & Safety,EHR,success,32.6,4
+R157Ca,2025-06-07,Care Utilization,Finance mart,success,8.2,0
+R157Op,2025-06-07,Operations Flow,EHR,success,28.3,0
+R158Qu,2025-06-08,Quality & Safety,ADT,success,24.1,7
+R158Ca,2025-06-08,Care Utilization,Finance mart,success,30.1,0
+R158Op,2025-06-08,Operations Flow,EHR,success,36.8,2
+R159Qu,2025-06-09,Quality & Safety,EHR,success,17.0,6
+R159Ca,2025-06-09,Care Utilization,EHR,failed,26.8,1
+R159Op,2025-06-09,Operations Flow,Finance mart,success,12.3,6
+R160Qu,2025-06-10,Quality & Safety,ADT,success,14.4,1
+R160Ca,2025-06-10,Care Utilization,ADT,success,20.9,5
+R160Op,2025-06-10,Operations Flow,Finance mart,success,28.6,1
+R161Qu,2025-06-11,Quality & Safety,ADT,success,18.4,6
+R161Ca,2025-06-11,Care Utilization,Finance mart,success,34.8,0
+R161Op,2025-06-11,Operations Flow,ADT,success,34.5,2
+R162Qu,2025-06-12,Quality & Safety,EHR,success,6.4,6
+R162Ca,2025-06-12,Care Utilization,Finance mart,success,33.8,4
+R162Op,2025-06-12,Operations Flow,Finance mart,success,31.4,3
+R163Qu,2025-06-13,Quality & Safety,EHR,failed,31.0,0
+R163Ca,2025-06-13,Care Utilization,EHR,success,10.0,4
+R163Op,2025-06-13,Operations Flow,Finance mart,success,26.7,0
+R164Qu,2025-06-14,Quality & Safety,ADT,success,28.2,4
+R164Ca,2025-06-14,Care Utilization,EHR,success,10.0,1
+R164Op,2025-06-14,Operations Flow,Finance mart,success,14.8,7
+R165Qu,2025-06-15,Quality & Safety,ADT,success,11.2,0
+R165Ca,2025-06-15,Care Utilization,EHR,success,31.0,2
+R165Op,2025-06-15,Operations Flow,EHR,success,12.7,3
+R166Qu,2025-06-16,Quality & Safety,ADT,success,29.8,7
+R166Ca,2025-06-16,Care Utilization,Finance mart,success,33.0,5
+R166Op,2025-06-16,Operations Flow,Finance mart,success,8.2,1
+R167Qu,2025-06-17,Quality & Safety,ADT,success,11.2,6
+R167Ca,2025-06-17,Care Utilization,ADT,failed,22.7,0
+R167Op,2025-06-17,Operations Flow,Finance mart,success,9.0,5
+R168Qu,2025-06-18,Quality & Safety,EHR,success,15.4,0
+R168Ca,2025-06-18,Care Utilization,EHR,success,28.9,1
+R168Op,2025-06-18,Operations Flow,Finance mart,success,22.9,2
+R169Qu,2025-06-19,Quality & Safety,EHR,success,34.3,6
+R169Ca,2025-06-19,Care Utilization,ADT,failed,27.9,0
+R169Op,2025-06-19,Operations Flow,EHR,success,31.6,1
+R170Qu,2025-06-20,Quality & Safety,EHR,success,18.7,0
+R170Ca,2025-06-20,Care Utilization,ADT,success,34.4,4
+R170Op,2025-06-20,Operations Flow,EHR,success,27.1,3
+R171Qu,2025-06-21,Quality & Safety,Finance mart,success,36.0,0
+R171Ca,2025-06-21,Care Utilization,ADT,success,37.3,0
+R171Op,2025-06-21,Operations Flow,EHR,success,12.8,6
+R172Qu,2025-06-22,Quality & Safety,EHR,success,32.3,3
+R172Ca,2025-06-22,Care Utilization,EHR,success,15.0,1
+R172Op,2025-06-22,Operations Flow,Finance mart,success,30.0,7
+R173Qu,2025-06-23,Quality & Safety,EHR,success,37.6,7
+R173Ca,2025-06-23,Care Utilization,ADT,success,32.1,5
+R173Op,2025-06-23,Operations Flow,ADT,success,8.4,3
+R174Qu,2025-06-24,Quality & Safety,EHR,success,12.3,0
+R174Ca,2025-06-24,Care Utilization,ADT,success,23.5,6
+R174Op,2025-06-24,Operations Flow,Finance mart,success,7.1,1
+R175Qu,2025-06-25,Quality & Safety,Finance mart,success,32.6,3
+R175Ca,2025-06-25,Care Utilization,Finance mart,success,12.9,6
+R175Op,2025-06-25,Operations Flow,Finance mart,success,18.7,7
+R176Qu,2025-06-26,Quality & Safety,Finance mart,success,11.0,7
+R176Ca,2025-06-26,Care Utilization,Finance mart,success,14.8,5
+R176Op,2025-06-26,Operations Flow,ADT,success,8.8,4
+R177Qu,2025-06-27,Quality & Safety,Finance mart,success,33.4,0
+R177Ca,2025-06-27,Care Utilization,ADT,success,17.5,3
+R177Op,2025-06-27,Operations Flow,EHR,success,10.2,4
+R178Qu,2025-06-28,Quality & Safety,EHR,failed,18.2,3
+R178Ca,2025-06-28,Care Utilization,Finance mart,success,22.2,5
+R178Op,2025-06-28,Operations Flow,ADT,success,22.0,2
+R179Qu,2025-06-29,Quality & Safety,EHR,success,36.5,1
+R179Ca,2025-06-29,Care Utilization,Finance mart,success,26.3,2
+R179Op,2025-06-29,Operations Flow,ADT,success,30.1,1
