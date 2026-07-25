@@ -1,0 +1,621 @@
+event_id,facility,month,event_type,severity,review_complete
+S00007,North Valley,2025-01,Specimen,High,Y
+S00008,North Valley,2025-01,Fall,Low,Y
+S00016,North Valley,2025-01,Specimen,Low,Y
+S00047,North Valley,2025-01,Specimen,Low,Y
+S00064,North Valley,2025-01,Fall,Low,Y
+S00082,North Valley,2025-01,Specimen,High,Y
+S00086,North Valley,2025-01,Medication,Low,Y
+S00089,North Valley,2025-01,Specimen,High,Y
+S00101,North Valley,2025-01,Specimen,Low,Y
+S00112,North Valley,2025-02,Medication,Low,Y
+S00127,North Valley,2025-02,Specimen,Moderate,Y
+S00159,North Valley,2025-02,Fall,Moderate,N
+S00165,North Valley,2025-02,Specimen,Low,Y
+S00168,North Valley,2025-02,Pressure injury,High,Y
+S00186,North Valley,2025-02,Fall,Moderate,Y
+S00188,North Valley,2025-02,Pressure injury,Low,Y
+S00190,North Valley,2025-02,Fall,Moderate,Y
+S00194,North Valley,2025-02,Medication,High,Y
+S00197,North Valley,2025-02,Fall,Low,Y
+S00212,North Valley,2025-03,Pressure injury,Low,Y
+S00223,North Valley,2025-03,Fall,Low,Y
+S00241,North Valley,2025-03,Fall,High,Y
+S00246,North Valley,2025-03,Medication,High,Y
+S00253,North Valley,2025-03,Medication,Low,Y
+S00276,North Valley,2025-03,Fall,Moderate,Y
+S00285,North Valley,2025-03,Medication,Moderate,Y
+S00301,North Valley,2025-03,Fall,High,Y
+S00313,North Valley,2025-03,Specimen,High,Y
+S00314,North Valley,2025-03,Medication,Low,Y
+S00319,North Valley,2025-04,Medication,Moderate,Y
+S00338,North Valley,2025-04,Pressure injury,High,Y
+S00339,North Valley,2025-04,Specimen,Moderate,Y
+S00342,North Valley,2025-04,Pressure injury,High,Y
+S00343,North Valley,2025-04,Fall,High,Y
+S00348,North Valley,2025-04,Medication,Low,N
+S00351,North Valley,2025-04,Specimen,Moderate,Y
+S00353,North Valley,2025-04,Specimen,Low,Y
+S00354,North Valley,2025-04,Specimen,Low,Y
+S00368,North Valley,2025-04,Fall,Low,Y
+S00369,North Valley,2025-04,Specimen,Low,Y
+S00399,North Valley,2025-04,Medication,Moderate,Y
+S00401,North Valley,2025-04,Pressure injury,Low,Y
+S00410,North Valley,2025-04,Specimen,Low,Y
+S00418,North Valley,2025-04,Fall,Low,Y
+S00443,North Valley,2025-05,Specimen,Moderate,Y
+S00445,North Valley,2025-05,Medication,Low,Y
+S00456,North Valley,2025-05,Pressure injury,Moderate,Y
+S00470,North Valley,2025-05,Medication,High,Y
+S00507,North Valley,2025-05,Pressure injury,Low,Y
+S00511,North Valley,2025-05,Fall,Low,Y
+S00513,North Valley,2025-05,Fall,Low,Y
+S00515,North Valley,2025-05,Pressure injury,Low,Y
+S00520,North Valley,2025-05,Pressure injury,Low,Y
+S00523,North Valley,2025-05,Fall,Low,Y
+S00538,North Valley,2025-06,Medication,High,Y
+S00546,North Valley,2025-06,Pressure injury,Moderate,Y
+S00557,North Valley,2025-06,Fall,Moderate,Y
+S00590,North Valley,2025-06,Fall,Low,Y
+S00594,North Valley,2025-06,Fall,Low,Y
+S00613,North Valley,2025-06,Pressure injury,Moderate,Y
+S00643,North Valley,2025-07,Specimen,Low,Y
+S00647,North Valley,2025-07,Specimen,High,Y
+S00667,North Valley,2025-07,Medication,Low,Y
+S00676,North Valley,2025-07,Pressure injury,Moderate,Y
+S00679,North Valley,2025-07,Specimen,Low,Y
+S00685,North Valley,2025-07,Pressure injury,Low,Y
+S00694,North Valley,2025-07,Specimen,Low,Y
+S00704,North Valley,2025-07,Pressure injury,Low,Y
+S00713,North Valley,2025-07,Pressure injury,Low,Y
+S00716,North Valley,2025-07,Medication,High,Y
+S00730,North Valley,2025-07,Fall,High,Y
+S00774,North Valley,2025-08,Fall,High,Y
+S00775,North Valley,2025-08,Pressure injury,High,Y
+S00790,North Valley,2025-08,Fall,Moderate,Y
+S00797,North Valley,2025-08,Fall,Moderate,Y
+S00809,North Valley,2025-08,Pressure injury,Low,Y
+S00816,North Valley,2025-08,Medication,Moderate,Y
+S00821,North Valley,2025-08,Specimen,Low,Y
+S00837,North Valley,2025-08,Pressure injury,High,Y
+S00853,North Valley,2025-09,Specimen,Moderate,Y
+S00855,North Valley,2025-09,Fall,High,Y
+S00870,North Valley,2025-09,Pressure injury,Moderate,Y
+S00900,North Valley,2025-09,Fall,Moderate,Y
+S00907,North Valley,2025-09,Pressure injury,Moderate,Y
+S00912,North Valley,2025-09,Specimen,Low,N
+S00914,North Valley,2025-09,Pressure injury,Moderate,Y
+S00921,North Valley,2025-09,Pressure injury,High,Y
+S00932,North Valley,2025-09,Specimen,Moderate,Y
+S00940,North Valley,2025-09,Pressure injury,Moderate,Y
+S00943,North Valley,2025-09,Specimen,Low,Y
+S00946,North Valley,2025-10,Medication,Low,Y
+S00953,North Valley,2025-10,Fall,High,N
+S01036,North Valley,2025-10,Medication,Low,Y
+S01038,North Valley,2025-10,Fall,Low,Y
+S01061,North Valley,2025-11,Fall,Low,Y
+S01067,North Valley,2025-11,Fall,High,Y
+S01076,North Valley,2025-11,Specimen,Low,Y
+S01080,North Valley,2025-11,Fall,Moderate,Y
+S01094,North Valley,2025-11,Fall,Low,Y
+S01095,North Valley,2025-11,Specimen,Low,Y
+S01097,North Valley,2025-11,Pressure injury,Moderate,Y
+S01123,North Valley,2025-11,Specimen,Low,Y
+S01131,North Valley,2025-11,Specimen,Moderate,Y
+S01137,North Valley,2025-11,Fall,High,Y
+S01147,North Valley,2025-11,Fall,Low,Y
+S01165,North Valley,2025-12,Fall,High,Y
+S01178,North Valley,2025-12,Specimen,Moderate,Y
+S01207,North Valley,2025-12,Medication,Low,Y
+S01209,North Valley,2025-12,Pressure injury,Moderate,Y
+S01219,North Valley,2025-12,Specimen,Low,Y
+S01243,North Valley,2025-12,Pressure injury,High,Y
+S01255,North Valley,2025-12,Pressure injury,Low,Y
+S01261,Canyon View,2025-01,Specimen,High,Y
+S01266,Canyon View,2025-01,Pressure injury,Moderate,Y
+S01268,Canyon View,2025-01,Pressure injury,Low,Y
+S01272,Canyon View,2025-01,Specimen,Low,N
+S01294,Canyon View,2025-01,Pressure injury,High,Y
+S01297,Canyon View,2025-01,Specimen,High,Y
+S01306,Canyon View,2025-01,Specimen,High,Y
+S01310,Canyon View,2025-01,Medication,Low,Y
+S01320,Canyon View,2025-01,Fall,Low,Y
+S01325,Canyon View,2025-01,Fall,Low,Y
+S01326,Canyon View,2025-01,Pressure injury,Low,Y
+S01342,Canyon View,2025-02,Medication,Low,Y
+S01346,Canyon View,2025-02,Fall,Low,Y
+S01349,Canyon View,2025-02,Fall,High,Y
+S01358,Canyon View,2025-02,Fall,Low,Y
+S01370,Canyon View,2025-02,Fall,Low,Y
+S01395,Canyon View,2025-02,Pressure injury,Low,Y
+S01442,Canyon View,2025-03,Pressure injury,High,Y
+S01445,Canyon View,2025-03,Specimen,High,Y
+S01446,Canyon View,2025-03,Fall,Low,N
+S01449,Canyon View,2025-03,Medication,High,Y
+S01456,Canyon View,2025-03,Specimen,Low,Y
+S01458,Canyon View,2025-03,Specimen,Low,Y
+S01478,Canyon View,2025-03,Specimen,Low,Y
+S01489,Canyon View,2025-03,Pressure injury,Moderate,Y
+S01490,Canyon View,2025-03,Specimen,Low,Y
+S01503,Canyon View,2025-04,Medication,High,Y
+S01506,Canyon View,2025-04,Fall,Moderate,Y
+S01509,Canyon View,2025-04,Fall,Low,Y
+S01540,Canyon View,2025-04,Pressure injury,Low,Y
+S01548,Canyon View,2025-04,Specimen,High,Y
+S01555,Canyon View,2025-04,Medication,Low,N
+S01570,Canyon View,2025-05,Fall,Low,Y
+S01586,Canyon View,2025-05,Medication,High,N
+S01587,Canyon View,2025-05,Specimen,High,Y
+S01597,Canyon View,2025-05,Specimen,Low,Y
+S01599,Canyon View,2025-05,Fall,High,Y
+S01639,Canyon View,2025-05,Medication,High,Y
+S01660,Canyon View,2025-06,Fall,Low,Y
+S01710,Canyon View,2025-06,Specimen,Low,Y
+S01727,Canyon View,2025-07,Medication,Low,Y
+S01729,Canyon View,2025-07,Fall,High,Y
+S01736,Canyon View,2025-07,Medication,High,Y
+S01742,Canyon View,2025-07,Fall,Low,Y
+S01754,Canyon View,2025-07,Specimen,Moderate,Y
+S01768,Canyon View,2025-07,Fall,Moderate,Y
+S01783,Canyon View,2025-07,Pressure injury,Low,Y
+S01786,Canyon View,2025-07,Fall,Low,N
+S01804,Canyon View,2025-08,Medication,Moderate,Y
+S01827,Canyon View,2025-08,Fall,Low,Y
+S01838,Canyon View,2025-08,Specimen,Low,Y
+S01844,Canyon View,2025-08,Medication,Low,Y
+S01845,Canyon View,2025-08,Fall,Moderate,Y
+S01847,Canyon View,2025-08,Medication,High,Y
+S01850,Canyon View,2025-08,Fall,Low,Y
+S01867,Canyon View,2025-08,Specimen,Low,Y
+S01870,Canyon View,2025-08,Pressure injury,Moderate,N
+S01872,Canyon View,2025-08,Medication,Low,Y
+S01884,Canyon View,2025-09,Specimen,Moderate,Y
+S01886,Canyon View,2025-09,Pressure injury,Moderate,N
+S01888,Canyon View,2025-09,Pressure injury,High,Y
+S01893,Canyon View,2025-09,Medication,Low,Y
+S01910,Canyon View,2025-09,Fall,High,Y
+S01916,Canyon View,2025-09,Medication,Low,Y
+S01930,Canyon View,2025-09,Specimen,High,Y
+S01954,Canyon View,2025-10,Specimen,Moderate,Y
+S01967,Canyon View,2025-10,Specimen,Low,Y
+S01971,Canyon View,2025-10,Specimen,Low,Y
+S01979,Canyon View,2025-10,Pressure injury,Low,Y
+S01986,Canyon View,2025-10,Pressure injury,High,Y
+S02001,Canyon View,2025-10,Medication,High,Y
+S02004,Canyon View,2025-10,Medication,Low,Y
+S02009,Canyon View,2025-10,Pressure injury,High,Y
+S02018,Canyon View,2025-10,Specimen,Moderate,Y
+S02020,Canyon View,2025-10,Medication,Low,Y
+S02029,Canyon View,2025-10,Fall,Low,Y
+S02038,Canyon View,2025-11,Medication,Low,Y
+S02049,Canyon View,2025-11,Fall,Moderate,Y
+S02060,Canyon View,2025-11,Pressure injury,Low,Y
+S02071,Canyon View,2025-11,Fall,High,Y
+S02078,Canyon View,2025-11,Pressure injury,High,Y
+S02081,Canyon View,2025-11,Fall,Moderate,Y
+S02087,Canyon View,2025-11,Specimen,Low,Y
+S02090,Canyon View,2025-11,Specimen,High,Y
+S02093,Canyon View,2025-11,Medication,High,Y
+S02115,Canyon View,2025-12,Medication,Moderate,Y
+S02132,Canyon View,2025-12,Specimen,High,Y
+S02146,Canyon View,2025-12,Medication,High,Y
+S02148,Canyon View,2025-12,Specimen,Moderate,Y
+S02162,Canyon View,2025-12,Specimen,High,Y
+S02170,Canyon View,2025-12,Pressure injury,Low,Y
+S02171,Canyon View,2025-12,Medication,Low,Y
+S02189,Wasatch,2025-01,Fall,High,Y
+S02192,Wasatch,2025-01,Medication,Moderate,Y
+S02196,Wasatch,2025-01,Specimen,Moderate,Y
+S02206,Wasatch,2025-01,Specimen,Low,Y
+S02215,Wasatch,2025-01,Specimen,Low,Y
+S02266,Wasatch,2025-01,Fall,Moderate,Y
+S02267,Wasatch,2025-01,Fall,High,Y
+S02278,Wasatch,2025-01,Fall,Low,Y
+S02298,Wasatch,2025-01,Medication,Moderate,Y
+S02309,Wasatch,2025-01,Pressure injury,Low,Y
+S02318,Wasatch,2025-02,Specimen,Low,Y
+S02332,Wasatch,2025-02,Fall,Low,Y
+S02335,Wasatch,2025-02,Pressure injury,Low,Y
+S02341,Wasatch,2025-02,Pressure injury,Low,Y
+S02359,Wasatch,2025-02,Specimen,Moderate,Y
+S02394,Wasatch,2025-02,Specimen,Low,Y
+S02411,Wasatch,2025-02,Medication,Low,Y
+S02437,Wasatch,2025-02,Specimen,Low,Y
+S02471,Wasatch,2025-03,Fall,High,Y
+S02485,Wasatch,2025-03,Medication,Low,Y
+S02490,Wasatch,2025-03,Fall,Moderate,N
+S02492,Wasatch,2025-03,Medication,Low,Y
+S02502,Wasatch,2025-03,Specimen,Low,Y
+S02506,Wasatch,2025-03,Specimen,High,Y
+S02510,Wasatch,2025-03,Specimen,Moderate,N
+S02525,Wasatch,2025-03,Specimen,Moderate,Y
+S02531,Wasatch,2025-03,Medication,Moderate,Y
+S02544,Wasatch,2025-03,Fall,Moderate,Y
+S02546,Wasatch,2025-03,Specimen,High,Y
+S02568,Wasatch,2025-04,Specimen,Low,Y
+S02576,Wasatch,2025-04,Pressure injury,Low,Y
+S02593,Wasatch,2025-04,Specimen,High,Y
+S02604,Wasatch,2025-04,Pressure injury,Low,Y
+S02609,Wasatch,2025-04,Fall,Low,Y
+S02621,Wasatch,2025-04,Specimen,High,Y
+S02630,Wasatch,2025-04,Pressure injury,Moderate,Y
+S02637,Wasatch,2025-04,Medication,High,Y
+S02650,Wasatch,2025-04,Pressure injury,Low,Y
+S02653,Wasatch,2025-04,Fall,Low,Y
+S02668,Wasatch,2025-04,Specimen,Low,Y
+S02691,Wasatch,2025-04,Medication,Low,Y
+S02703,Wasatch,2025-05,Fall,Low,Y
+S02718,Wasatch,2025-05,Fall,Low,Y
+S02719,Wasatch,2025-05,Specimen,Moderate,Y
+S02731,Wasatch,2025-05,Fall,High,Y
+S02734,Wasatch,2025-05,Specimen,High,N
+S02751,Wasatch,2025-05,Specimen,High,Y
+S02752,Wasatch,2025-05,Fall,High,Y
+S02754,Wasatch,2025-05,Specimen,Moderate,Y
+S02775,Wasatch,2025-05,Pressure injury,Moderate,Y
+S02786,Wasatch,2025-05,Specimen,Low,Y
+S02788,Wasatch,2025-05,Pressure injury,Low,Y
+S02793,Wasatch,2025-05,Pressure injury,Low,Y
+S02795,Wasatch,2025-05,Pressure injury,High,Y
+S02796,Wasatch,2025-05,Specimen,Low,Y
+S02825,Wasatch,2025-06,Fall,Low,Y
+S02835,Wasatch,2025-06,Specimen,High,Y
+S02841,Wasatch,2025-06,Medication,High,Y
+S02848,Wasatch,2025-06,Fall,High,Y
+S02911,Wasatch,2025-06,Fall,Low,Y
+S02919,Wasatch,2025-06,Medication,Low,Y
+S02928,Wasatch,2025-06,Medication,Low,Y
+S02956,Wasatch,2025-07,Pressure injury,Low,Y
+S02966,Wasatch,2025-07,Pressure injury,High,Y
+S02975,Wasatch,2025-07,Fall,Moderate,Y
+S02980,Wasatch,2025-07,Specimen,Low,Y
+S02995,Wasatch,2025-07,Pressure injury,High,Y
+S03000,Wasatch,2025-07,Pressure injury,Low,Y
+S03009,Wasatch,2025-07,Medication,Low,Y
+S03013,Wasatch,2025-07,Medication,High,Y
+S03019,Wasatch,2025-07,Pressure injury,Moderate,Y
+S03040,Wasatch,2025-07,Specimen,Moderate,Y
+S03048,Wasatch,2025-07,Specimen,Low,Y
+S03064,Wasatch,2025-07,Specimen,Low,N
+S03072,Wasatch,2025-07,Specimen,Moderate,Y
+S03078,Wasatch,2025-08,Specimen,Low,Y
+S03082,Wasatch,2025-08,Fall,Low,Y
+S03090,Wasatch,2025-08,Pressure injury,High,N
+S03098,Wasatch,2025-08,Specimen,Moderate,Y
+S03102,Wasatch,2025-08,Pressure injury,Moderate,Y
+S03114,Wasatch,2025-08,Pressure injury,Low,Y
+S03126,Wasatch,2025-08,Fall,Moderate,Y
+S03135,Wasatch,2025-08,Medication,Low,Y
+S03153,Wasatch,2025-08,Fall,Moderate,Y
+S03158,Wasatch,2025-08,Medication,Low,Y
+S03174,Wasatch,2025-08,Medication,Moderate,Y
+S03177,Wasatch,2025-08,Fall,High,Y
+S03194,Wasatch,2025-08,Specimen,Low,Y
+S03245,Wasatch,2025-09,Specimen,Low,Y
+S03262,Wasatch,2025-09,Specimen,Low,Y
+S03265,Wasatch,2025-09,Fall,Moderate,Y
+S03266,Wasatch,2025-09,Medication,Low,Y
+S03294,Wasatch,2025-09,Fall,Low,Y
+S03297,Wasatch,2025-09,Specimen,Moderate,Y
+S03299,Wasatch,2025-09,Fall,Moderate,Y
+S03305,Wasatch,2025-09,Medication,Low,Y
+S03317,Wasatch,2025-09,Specimen,Low,Y
+S03324,Wasatch,2025-09,Medication,Low,Y
+S03328,Wasatch,2025-10,Pressure injury,Low,Y
+S03334,Wasatch,2025-10,Pressure injury,Low,Y
+S03339,Wasatch,2025-10,Pressure injury,Low,Y
+S03341,Wasatch,2025-10,Specimen,Low,Y
+S03345,Wasatch,2025-10,Fall,Moderate,Y
+S03357,Wasatch,2025-10,Medication,Moderate,Y
+S03370,Wasatch,2025-10,Fall,High,Y
+S03392,Wasatch,2025-10,Pressure injury,Low,Y
+S03406,Wasatch,2025-10,Fall,Low,Y
+S03409,Wasatch,2025-10,Medication,Low,Y
+S03423,Wasatch,2025-10,Medication,Low,Y
+S03439,Wasatch,2025-10,Fall,Moderate,Y
+S03440,Wasatch,2025-10,Fall,Low,N
+S03455,Wasatch,2025-11,Medication,Low,N
+S03456,Wasatch,2025-11,Medication,Low,Y
+S03497,Wasatch,2025-11,Medication,High,Y
+S03504,Wasatch,2025-11,Specimen,Moderate,Y
+S03534,Wasatch,2025-11,Specimen,Low,Y
+S03539,Wasatch,2025-11,Specimen,Moderate,Y
+S03541,Wasatch,2025-11,Pressure injury,Low,Y
+S03543,Wasatch,2025-11,Pressure injury,Low,Y
+S03545,Wasatch,2025-11,Pressure injury,Low,Y
+S03565,Wasatch,2025-11,Fall,High,Y
+S03566,Wasatch,2025-11,Fall,Low,Y
+S03570,Wasatch,2025-11,Pressure injury,Low,Y
+S03571,Wasatch,2025-11,Fall,High,Y
+S03587,Wasatch,2025-12,Fall,Moderate,Y
+S03591,Wasatch,2025-12,Fall,High,Y
+S03595,Wasatch,2025-12,Pressure injury,High,Y
+S03597,Wasatch,2025-12,Pressure injury,Low,Y
+S03602,Wasatch,2025-12,Medication,Low,Y
+S03618,Wasatch,2025-12,Medication,Moderate,N
+S03631,Wasatch,2025-12,Specimen,High,Y
+S03669,Wasatch,2025-12,Fall,Moderate,Y
+S03673,Wasatch,2025-12,Specimen,Moderate,Y
+S03677,Wasatch,2025-12,Medication,Low,Y
+S03678,Wasatch,2025-12,Pressure injury,Low,Y
+S03683,Wasatch,2025-12,Medication,Low,N
+S03695,Wasatch,2025-12,Pressure injury,Low,Y
+S03707,Wasatch,2025-12,Medication,Moderate,Y
+S03711,Lakeview,2025-01,Medication,Moderate,Y
+S03715,Lakeview,2025-01,Pressure injury,Low,Y
+S03725,Lakeview,2025-01,Medication,Moderate,Y
+S03757,Lakeview,2025-01,Specimen,High,Y
+S03779,Lakeview,2025-01,Specimen,Moderate,Y
+S03787,Lakeview,2025-01,Pressure injury,Low,Y
+S03794,Lakeview,2025-01,Fall,Low,Y
+S03799,Lakeview,2025-01,Pressure injury,Low,Y
+S03809,Lakeview,2025-02,Medication,Low,Y
+S03818,Lakeview,2025-02,Pressure injury,Moderate,Y
+S03850,Lakeview,2025-02,Fall,Low,Y
+S03865,Lakeview,2025-02,Fall,Low,Y
+S03867,Lakeview,2025-02,Fall,Moderate,Y
+S03870,Lakeview,2025-02,Fall,Moderate,Y
+S03877,Lakeview,2025-02,Medication,Moderate,Y
+S03898,Lakeview,2025-02,Medication,Low,Y
+S03907,Lakeview,2025-03,Fall,Moderate,Y
+S03912,Lakeview,2025-03,Medication,High,N
+S03913,Lakeview,2025-03,Medication,Moderate,Y
+S03918,Lakeview,2025-03,Specimen,Moderate,Y
+S03920,Lakeview,2025-03,Pressure injury,Low,Y
+S03928,Lakeview,2025-03,Medication,Moderate,Y
+S03930,Lakeview,2025-03,Specimen,Low,Y
+S03949,Lakeview,2025-03,Pressure injury,Low,Y
+S03950,Lakeview,2025-03,Fall,Low,Y
+S03951,Lakeview,2025-03,Fall,High,Y
+S03972,Lakeview,2025-03,Medication,Moderate,Y
+S03979,Lakeview,2025-03,Specimen,High,Y
+S04006,Lakeview,2025-04,Pressure injury,Low,Y
+S04016,Lakeview,2025-04,Specimen,Low,Y
+S04024,Lakeview,2025-04,Fall,Low,Y
+S04027,Lakeview,2025-04,Specimen,Low,Y
+S04042,Lakeview,2025-04,Specimen,High,Y
+S04057,Lakeview,2025-04,Specimen,Low,Y
+S04066,Lakeview,2025-04,Specimen,Low,Y
+S04083,Lakeview,2025-04,Medication,Low,Y
+S04084,Lakeview,2025-04,Pressure injury,Low,Y
+S04108,Lakeview,2025-05,Specimen,Low,Y
+S04115,Lakeview,2025-05,Fall,Moderate,Y
+S04123,Lakeview,2025-05,Specimen,Moderate,Y
+S04126,Lakeview,2025-05,Pressure injury,Low,Y
+S04130,Lakeview,2025-05,Fall,Low,Y
+S04145,Lakeview,2025-05,Pressure injury,Low,Y
+S04158,Lakeview,2025-05,Pressure injury,Moderate,Y
+S04162,Lakeview,2025-05,Medication,Low,Y
+S04176,Lakeview,2025-05,Fall,High,Y
+S04197,Lakeview,2025-06,Pressure injury,Low,Y
+S04201,Lakeview,2025-06,Specimen,Low,Y
+S04205,Lakeview,2025-06,Fall,Low,Y
+S04214,Lakeview,2025-06,Medication,High,Y
+S04221,Lakeview,2025-06,Fall,Moderate,Y
+S04232,Lakeview,2025-06,Fall,Low,Y
+S04253,Lakeview,2025-06,Specimen,Low,Y
+S04259,Lakeview,2025-06,Medication,Low,Y
+S04265,Lakeview,2025-06,Pressure injury,High,N
+S04270,Lakeview,2025-06,Fall,Low,Y
+S04273,Lakeview,2025-06,Pressure injury,High,Y
+S04278,Lakeview,2025-06,Specimen,High,Y
+S04287,Lakeview,2025-07,Pressure injury,Low,Y
+S04298,Lakeview,2025-07,Fall,Moderate,Y
+S04299,Lakeview,2025-07,Pressure injury,Moderate,Y
+S04326,Lakeview,2025-07,Fall,Low,Y
+S04333,Lakeview,2025-07,Fall,Low,Y
+S04344,Lakeview,2025-07,Fall,Low,Y
+S04349,Lakeview,2025-07,Specimen,Low,Y
+S04352,Lakeview,2025-07,Medication,High,Y
+S04354,Lakeview,2025-07,Fall,Low,Y
+S04368,Lakeview,2025-07,Fall,Moderate,Y
+S04377,Lakeview,2025-08,Specimen,Low,Y
+S04382,Lakeview,2025-08,Medication,High,Y
+S04384,Lakeview,2025-08,Pressure injury,Low,Y
+S04390,Lakeview,2025-08,Specimen,Moderate,Y
+S04404,Lakeview,2025-08,Medication,High,Y
+S04407,Lakeview,2025-08,Pressure injury,Low,Y
+S04411,Lakeview,2025-08,Specimen,High,Y
+S04422,Lakeview,2025-08,Fall,High,Y
+S04441,Lakeview,2025-08,Medication,Moderate,Y
+S04449,Lakeview,2025-08,Medication,High,Y
+S04453,Lakeview,2025-08,Pressure injury,Moderate,N
+S04464,Lakeview,2025-08,Fall,Low,Y
+S04486,Lakeview,2025-09,Fall,Low,Y
+S04506,Lakeview,2025-09,Specimen,Low,Y
+S04522,Lakeview,2025-09,Pressure injury,Low,Y
+S04528,Lakeview,2025-09,Medication,Low,Y
+S04539,Lakeview,2025-09,Specimen,Moderate,Y
+S04546,Lakeview,2025-09,Pressure injury,Low,Y
+S04553,Lakeview,2025-09,Fall,Low,Y
+S04566,Lakeview,2025-10,Pressure injury,Low,Y
+S04612,Lakeview,2025-10,Fall,Low,Y
+S04623,Lakeview,2025-10,Pressure injury,Low,Y
+S04629,Lakeview,2025-10,Pressure injury,High,Y
+S04656,Lakeview,2025-10,Specimen,High,Y
+S04686,Lakeview,2025-11,Pressure injury,Moderate,Y
+S04691,Lakeview,2025-11,Pressure injury,Low,Y
+S04692,Lakeview,2025-11,Specimen,Low,Y
+S04696,Lakeview,2025-11,Fall,Low,Y
+S04729,Lakeview,2025-11,Specimen,Low,Y
+S04735,Lakeview,2025-11,Specimen,Moderate,Y
+S04749,Lakeview,2025-11,Specimen,Moderate,Y
+S04751,Lakeview,2025-11,Pressure injury,High,Y
+S04755,Lakeview,2025-12,Specimen,Low,Y
+S04758,Lakeview,2025-12,Medication,High,Y
+S04759,Lakeview,2025-12,Specimen,Low,Y
+S04765,Lakeview,2025-12,Medication,Low,Y
+S04771,Lakeview,2025-12,Medication,Moderate,Y
+S04774,Lakeview,2025-12,Specimen,High,Y
+S04778,Lakeview,2025-12,Specimen,Low,Y
+S04783,Lakeview,2025-12,Specimen,High,Y
+S04789,Lakeview,2025-12,Fall,Moderate,Y
+S04804,Lakeview,2025-12,Fall,Moderate,Y
+S04814,Lakeview,2025-12,Medication,Low,Y
+S04823,Lakeview,2025-12,Specimen,Low,Y
+S04829,Lakeview,2025-12,Fall,Moderate,Y
+S04834,Lakeview,2025-12,Pressure injury,Low,Y
+S04836,Lakeview,2025-12,Pressure injury,High,Y
+S04856,Red Rock,2025-01,Pressure injury,Low,Y
+S04879,Red Rock,2025-01,Pressure injury,Low,Y
+S04897,Red Rock,2025-01,Medication,Low,Y
+S04902,Red Rock,2025-01,Fall,Low,Y
+S04905,Red Rock,2025-01,Specimen,High,Y
+S04908,Red Rock,2025-01,Specimen,Low,Y
+S04925,Red Rock,2025-02,Medication,High,Y
+S04946,Red Rock,2025-02,Pressure injury,Low,Y
+S04955,Red Rock,2025-02,Pressure injury,High,Y
+S04956,Red Rock,2025-02,Fall,High,Y
+S04959,Red Rock,2025-02,Medication,Moderate,Y
+S04965,Red Rock,2025-02,Medication,Low,Y
+S04969,Red Rock,2025-02,Pressure injury,Low,Y
+S04979,Red Rock,2025-02,Specimen,Low,Y
+S05029,Red Rock,2025-03,Fall,Low,Y
+S05042,Red Rock,2025-03,Fall,Low,Y
+S05060,Red Rock,2025-03,Specimen,Low,Y
+S05064,Red Rock,2025-03,Specimen,High,N
+S05065,Red Rock,2025-03,Specimen,Low,Y
+S05072,Red Rock,2025-04,Medication,Low,Y
+S05077,Red Rock,2025-04,Medication,Low,Y
+S05099,Red Rock,2025-04,Fall,Low,Y
+S05108,Red Rock,2025-04,Specimen,Low,Y
+S05114,Red Rock,2025-04,Medication,Low,Y
+S05128,Red Rock,2025-04,Fall,High,Y
+S05138,Red Rock,2025-04,Pressure injury,Low,Y
+S05146,Red Rock,2025-05,Fall,Low,Y
+S05149,Red Rock,2025-05,Specimen,Moderate,Y
+S05185,Red Rock,2025-05,Medication,Low,Y
+S05188,Red Rock,2025-05,Pressure injury,Low,Y
+S05191,Red Rock,2025-05,Fall,Low,Y
+S05197,Red Rock,2025-05,Medication,Low,Y
+S05199,Red Rock,2025-05,Specimen,High,Y
+S05218,Red Rock,2025-06,Fall,High,Y
+S05224,Red Rock,2025-06,Specimen,Low,Y
+S05231,Red Rock,2025-06,Fall,High,Y
+S05246,Red Rock,2025-06,Fall,Low,N
+S05251,Red Rock,2025-06,Medication,Moderate,Y
+S05253,Red Rock,2025-06,Specimen,Low,N
+S05256,Red Rock,2025-06,Pressure injury,High,N
+S05259,Red Rock,2025-06,Medication,Low,Y
+S05267,Red Rock,2025-06,Medication,Low,Y
+S05306,Red Rock,2025-07,Fall,Low,Y
+S05351,Red Rock,2025-07,Specimen,High,Y
+S05357,Red Rock,2025-07,Fall,Low,Y
+S05364,Red Rock,2025-08,Medication,Low,Y
+S05366,Red Rock,2025-08,Specimen,Moderate,Y
+S05371,Red Rock,2025-08,Medication,High,Y
+S05375,Red Rock,2025-08,Medication,Moderate,Y
+S05383,Red Rock,2025-08,Fall,Moderate,Y
+S05418,Red Rock,2025-08,Fall,Low,N
+S05424,Red Rock,2025-08,Fall,Low,Y
+S05446,Red Rock,2025-09,Pressure injury,High,N
+S05462,Red Rock,2025-09,Pressure injury,Low,Y
+S05481,Red Rock,2025-09,Fall,High,Y
+S05482,Red Rock,2025-09,Specimen,Low,Y
+S05485,Red Rock,2025-09,Fall,Moderate,Y
+S05505,Red Rock,2025-09,Fall,Low,Y
+S05514,Red Rock,2025-10,Specimen,Moderate,Y
+S05545,Red Rock,2025-10,Medication,High,Y
+S05571,Red Rock,2025-10,Fall,Low,Y
+S05582,Red Rock,2025-11,Fall,Low,Y
+S05583,Red Rock,2025-11,Medication,Moderate,Y
+S05597,Red Rock,2025-11,Fall,Low,Y
+S05620,Red Rock,2025-11,Pressure injury,High,N
+S05621,Red Rock,2025-11,Specimen,Moderate,Y
+S05625,Red Rock,2025-11,Specimen,Low,N
+S05649,Red Rock,2025-11,Medication,Moderate,Y
+S05666,Red Rock,2025-12,Pressure injury,High,Y
+S05667,Red Rock,2025-12,Medication,High,Y
+S05683,Red Rock,2025-12,Specimen,Low,Y
+S05705,Red Rock,2025-12,Fall,Moderate,Y
+S05734,Mesa Ridge,2025-01,Pressure injury,Low,Y
+S05749,Mesa Ridge,2025-01,Fall,Low,Y
+S05769,Mesa Ridge,2025-01,Pressure injury,Low,N
+S05775,Mesa Ridge,2025-01,Fall,High,Y
+S05829,Mesa Ridge,2025-02,Pressure injury,Low,Y
+S05832,Mesa Ridge,2025-02,Specimen,High,Y
+S05838,Mesa Ridge,2025-02,Specimen,Moderate,Y
+S05854,Mesa Ridge,2025-02,Medication,Low,Y
+S05859,Mesa Ridge,2025-02,Fall,Moderate,Y
+S05862,Mesa Ridge,2025-02,Medication,Moderate,Y
+S05877,Mesa Ridge,2025-02,Fall,Low,Y
+S05880,Mesa Ridge,2025-02,Medication,Moderate,Y
+S05905,Mesa Ridge,2025-03,Specimen,High,Y
+S05914,Mesa Ridge,2025-03,Fall,High,Y
+S05920,Mesa Ridge,2025-03,Medication,Low,Y
+S05924,Mesa Ridge,2025-03,Fall,Moderate,N
+S05925,Mesa Ridge,2025-03,Pressure injury,High,Y
+S05932,Mesa Ridge,2025-03,Medication,High,Y
+S05933,Mesa Ridge,2025-03,Specimen,Low,Y
+S05935,Mesa Ridge,2025-03,Medication,Low,Y
+S05948,Mesa Ridge,2025-03,Pressure injury,Low,Y
+S05949,Mesa Ridge,2025-03,Fall,High,Y
+S05966,Mesa Ridge,2025-03,Medication,Low,Y
+S05984,Mesa Ridge,2025-04,Pressure injury,Low,Y
+S05994,Mesa Ridge,2025-04,Fall,Low,Y
+S06004,Mesa Ridge,2025-04,Specimen,Low,Y
+S06018,Mesa Ridge,2025-04,Medication,Low,N
+S06021,Mesa Ridge,2025-04,Pressure injury,Moderate,Y
+S06023,Mesa Ridge,2025-04,Pressure injury,High,Y
+S06029,Mesa Ridge,2025-04,Pressure injury,Low,Y
+S06041,Mesa Ridge,2025-04,Medication,High,Y
+S06044,Mesa Ridge,2025-04,Pressure injury,High,Y
+S06073,Mesa Ridge,2025-05,Pressure injury,Low,Y
+S06100,Mesa Ridge,2025-05,Medication,Low,Y
+S06107,Mesa Ridge,2025-05,Pressure injury,High,Y
+S06117,Mesa Ridge,2025-05,Fall,Low,Y
+S06123,Mesa Ridge,2025-05,Pressure injury,Moderate,Y
+S06148,Mesa Ridge,2025-05,Pressure injury,Low,Y
+S06160,Mesa Ridge,2025-06,Pressure injury,Moderate,N
+S06178,Mesa Ridge,2025-06,Fall,Low,Y
+S06186,Mesa Ridge,2025-06,Medication,Moderate,Y
+S06194,Mesa Ridge,2025-06,Specimen,Low,Y
+S06201,Mesa Ridge,2025-06,Pressure injury,Low,Y
+S06208,Mesa Ridge,2025-06,Pressure injury,Low,Y
+S06233,Mesa Ridge,2025-06,Fall,Low,Y
+S06239,Mesa Ridge,2025-07,Medication,Moderate,Y
+S06243,Mesa Ridge,2025-07,Specimen,Low,Y
+S06244,Mesa Ridge,2025-07,Medication,Moderate,Y
+S06247,Mesa Ridge,2025-07,Pressure injury,Low,Y
+S06255,Mesa Ridge,2025-07,Medication,High,Y
+S06271,Mesa Ridge,2025-07,Medication,Moderate,Y
+S06288,Mesa Ridge,2025-07,Pressure injury,Moderate,Y
+S06296,Mesa Ridge,2025-07,Specimen,High,Y
+S06301,Mesa Ridge,2025-07,Fall,High,Y
+S06302,Mesa Ridge,2025-07,Fall,High,Y
+S06321,Mesa Ridge,2025-08,Pressure injury,Low,Y
+S06333,Mesa Ridge,2025-08,Fall,High,Y
+S06342,Mesa Ridge,2025-08,Pressure injury,Moderate,Y
+S06357,Mesa Ridge,2025-08,Medication,Moderate,Y
+S06358,Mesa Ridge,2025-08,Pressure injury,Low,Y
+S06361,Mesa Ridge,2025-08,Specimen,High,Y
+S06395,Mesa Ridge,2025-08,Pressure injury,High,Y
+S06397,Mesa Ridge,2025-08,Fall,Low,Y
+S06411,Mesa Ridge,2025-09,Medication,Moderate,Y
+S06414,Mesa Ridge,2025-09,Specimen,Low,Y
+S06419,Mesa Ridge,2025-09,Specimen,Low,Y
+S06434,Mesa Ridge,2025-09,Medication,Low,Y
+S06437,Mesa Ridge,2025-09,Medication,Low,Y
+S06444,Mesa Ridge,2025-09,Specimen,Moderate,Y
+S06454,Mesa Ridge,2025-09,Specimen,Moderate,Y
+S06460,Mesa Ridge,2025-09,Specimen,Low,Y
+S06470,Mesa Ridge,2025-09,Fall,High,Y
+S06472,Mesa Ridge,2025-09,Medication,Moderate,Y
+S06474,Mesa Ridge,2025-09,Pressure injury,High,Y
+S06476,Mesa Ridge,2025-09,Medication,High,N
+S06480,Mesa Ridge,2025-09,Specimen,Low,Y
+S06483,Mesa Ridge,2025-09,Fall,Moderate,Y
+S06491,Mesa Ridge,2025-10,Medication,Low,Y
+S06497,Mesa Ridge,2025-10,Medication,Low,Y
+S06511,Mesa Ridge,2025-10,Pressure injury,Low,Y
+S06540,Mesa Ridge,2025-10,Pressure injury,Low,Y
+S06583,Mesa Ridge,2025-11,Medication,High,Y
+S06590,Mesa Ridge,2025-11,Fall,Low,Y
+S06631,Mesa Ridge,2025-11,Pressure injury,Low,Y
+S06657,Mesa Ridge,2025-11,Pressure injury,Low,Y
+S06659,Mesa Ridge,2025-11,Pressure injury,Moderate,Y
+S06682,Mesa Ridge,2025-12,Fall,Moderate,Y
+S06706,Mesa Ridge,2025-12,Pressure injury,Moderate,Y
+S06709,Mesa Ridge,2025-12,Specimen,High,Y
+S06732,Mesa Ridge,2025-12,Medication,Low,Y
+S06734,Mesa Ridge,2025-12,Fall,Low,Y
